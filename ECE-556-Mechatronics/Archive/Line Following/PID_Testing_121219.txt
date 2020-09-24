@@ -1,0 +1,31 @@
+Kp		Ki		Kd	Time(2)
+0.05	0.01	0
+0.05	0.02	0			-> Tracked well (Slow on straightaways)
+0.04	0.02	0
+0.04	0.03	0	20		-> Tracked, Slower on 
+0.03	0.03	0 			-> Missed curve
+0.03	0.03	0.01		-> Tracked well one way, missed the other
+0.03	0.03	0.015		-> Missed first turn, Missed back side
+0.03	0		0			-> Missed
+0.09	0		0	31
+0.07	0		0	21
+0.06	0		0	-18-		-> Missed curve on the way back, corrected itself and finished
+0.07	0		0.01	20
+0.06	0		0.01	-> Missed 
+0.06	0		0.03	-> Missed
+0.06	0		0.08	-> Missed 	
+0.06	0		0.15	-> Missed 
+0.07	0		0.01		(Missed on the back)
+0.07	0		0.02	-> Missed
+0.07	0		0.005	20	-> Missed on the way back
+0.04	0.03	0.005	20 ->Missed on the way back 
+0.04	0.03	0		20 (Works both ways. )
+0.03	0.04	0		19.6
+0.02	0.04	0.01		-> Missed
+0.02	0.04	0.05		-> Missed
+0.02	0.04	1			->Hit (Super Slow)
+0.02	0.04	0.5(sic)		->Super Slow (Lots of oscillations)
+0.02	0.04	0.2(sic)	->Super
+0.02	0.04	0.1(sic)	->Missed
+0.02	0.04	0.15(sic)	->Missed
+0.02	0.05	0		19	

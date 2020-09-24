@@ -1,0 +1,284 @@
+Kp		Ki	Kd	Comments
+0.05	0	0	Works Properly (Sweeps)
+0.04	0	0	Fails on turns
+0.05	0.1	0	Spins Wildly
+
+0.05	0.001	0	0
+Lap time (ms) C1 is: 7956
+Accumulative square tracking error C2 is: 19492.98
+Tracking smoothness C3 is: 44938.99
+Platooning RMSE C5 is: 171.20
+
+
+0.04	0	0 -> Missed
+
+0.04	0.001	0	
+Lap time (ms) C1 is: 7609
+Accumulative square tracking error C2 is: 14676.09
+Tracking smoothness C3 is: 34571.45
+Platooning RMSE C5 is: 165.64
+
+0.03	0.001	0 -> Missed
+
+0.03	0.001	0.001 -> Missed
+
+0.03	0.002	00 -> Missed
+
+0.03	0.002	0.05
+Lap time (ms) C1 is: 7408
+Accumulative square tracking error C2 is: 10459.43
+Tracking smoothness C3 is: 48154.07
+Platooning RMSE C5 is: 169.68
+
+0.03	0.002	0.04
+Lap time (ms) C1 is: 7463
+Accumulative square tracking error C2 is: 11345.52
+Tracking smoothness C3 is: 45392.40
+Platooning RMSE C5 is: 174.95
+
+0.03	0.005	0.04 -> Missed
+
+0.03	0.002	0.03 -> Missed
+
+0.03	0.002	0.035 -> Missed
+
+0.03	0.002	0.35 -> Missed
+
+0.03	0	0.04 -> Missed
+
+0.02	0	0.05 -> Missed
+
+0.03	0.001	0.04 -> Missed
+
+0.03	0.002	0.04
+Lap time (ms) C1 is: 7367
+Accumulative square tracking error C2 is: 13947.09
+Tracking smoothness C3 is: 46314.25
+Platooning RMSE C5 is: 174.52
+
+0.02	0.0013	0.02666 -> Missed
+
+0.02	0.0026	0.05 -> Missed
+
+0.025	0.001666	0.0333	
+
+0.03	0.002	0.04 (Deadband 20)
+Lap time (ms) C1 is: 7364
+Accumulative square tracking error C2 is: 13082.12
+Tracking smoothness C3 is: 45833.07
+Platooning RMSE C5 is: 165.71
+
+0.03	0.002	0.04 (Deadband 40)
+Lap time (ms) C1 is: 7316
+Accumulative square tracking error C2 is: 13251.73
+Tracking smoothness C3 is: 50200.67
+Platooning RMSE C5 is: 166.23
+
+0.03	0.0002	0.04 (Deadband 10) -> Reverse
+Lap time (ms) C1 is: 7360
+Accumulative square tracking error C2 is: 12902.53
+Tracking smoothness C3 is: 47598.42
+Platooning RMSE C5 is: 123.97
+
+0.03	0.0002	0.04 (Deadband 10)
+Lap time (ms) C1 is: 7364
+Accumulative square tracking error C2 is: 21471.46
+Tracking smoothness C3 is: 47312.58
+Platooning RMSE C5 is: 166.91
+
+0.03	0.002	0.04 (Deadband 20) -> Reverse
+Missed
+
+0.03	0.002	0.04 (Deadband 0) -> Reverse
+Missed
+
+0.03	0	0.06	(Deadband 0) -> Reverse
+Missed
+
+0.03	0.002	0.04 (I Capped @ |2000|) -> Reverse
+Lap time (ms) C1 is: 7045
+Accumulative square tracking error C2 is: 11632.63
+Tracking smoothness C3 is: 35570.48
+Platooning RMSE C5 is: 106.50
+
+0.03	0.002	0.04 (I Capped @ |2000|)
+Lap time (ms) C1 is: 7536
+Accumulative square tracking error C2 is: 16215.76
+Tracking smoothness C3 is: 43781.02
+Platooning RMSE C5 is: 975.83
+
+0.03	0.002	0.04 (I Capped @ |2000|)
+Lap time (ms) C1 is: 7228
+Accumulative square tracking error C2 is: 15189.68
+Tracking smoothness C3 is: 32190.19
+Platooning RMSE C5 is: 162.09
+
+0.03	0.002	0.04 (I Capped @ |3000|)
+Lap time (ms) C1 is: 7628
+Accumulative square tracking error C2 is: 15859.85
+Tracking smoothness C3 is: 45116.93
+Platooning RMSE C5 is: 164.92
+
+0.03	0.002	0.04 (I Capped @ |3000|)
+Lap time (ms) C1 is: 7415
+Accumulative square tracking error C2 is: 12050.92
+Tracking smoothness C3 is: 42516.37
+Platooning RMSE C5 is: 165.01
+
+0.03	0.004	0.04	(I Capped @ 3000)
+Lap time (ms) C1 is: 7555
+Accumulative square tracking error C2 is: 18597.12
+Tracking smoothness C3 is: 49720.38
+Platooning RMSE C5 is: 167.61
+
+0.03	0.002	0.08	(I Capped)
+Lap time (ms) C1 is: 8165
+Accumulative square tracking error C2 is: 15557.30
+Tracking smoothness C3 is: 42329.36
+Platooning RMSE C5 is: 2392.61
+
+0.025	0.002	0.08 (I Capped)
+Lap time (ms) C1 is: 7764
+Accumulative square tracking error C2 is: 18335.36
+Tracking smoothness C3 is: 36016.31
+Platooning RMSE C5 is: 170.30
+
+0.025	0.002	0.06 (I Capped)
+Lap time (ms) C1 is: 7443
+Accumulative square tracking error C2 is: 17072.72
+Tracking smoothness C3 is: 36365.77
+Platooning RMSE C5 is: 166.11
+
+0.025	0.002	0.05
+Lap time (ms) C1 is: 7468
+Accumulative square tracking error C2 is: 15666.08
+Tracking smoothness C3 is: 36915.36
+Platooning RMSE C5 is: 168.00
+
+0.03	0.001	0.05
+Lap time (ms) C1 is: 7547
+Accumulative square tracking error C2 is: 14010.16
+Tracking smoothness C3 is: 43528.16
+Platooning RMSE C5 is: 173.88
+
+0.03	0.002	0.04 (I Capped 0 Deadband)
+Lap time (ms) C1 is: 7538
+Accumulative square tracking error C2 is: 13620.55
+Tracking smoothness C3 is: 53537.70
+Platooning RMSE C5 is: 169.22
+
+0.03	0.002	0.04 (I Capped  Deadband 10)
+Lap time (ms) C1 is: 7177
+Accumulative square tracking error C2 is: 10415.38
+Tracking smoothness C3 is: 43520.85
+Platooning RMSE C5 is: 165.34
+
+0.03	0.002	0.04 (I Capped  Deadband 10) -> Reverse
+Lap time (ms) C1 is: 7615
+Accumulative square tracking error C2 is: 11103.85
+Tracking smoothness C3 is: 50064.05
+Platooning RMSE C5 is: 152.23
+
+
+New Track
+-------------------------------------------------
+0.03	0.002	0.04	-> Missed On New Track 
+
+0.06	0	0
+
+0.08	0	0
+Lap time (ms) C1 is: 23891
+Accumulative square tracking error C2 is: 36365.20
+Tracking smoothness C3 is: 127252.02
+Platooning RMSE C5 is: 219.64
+
+0.07	0	0 -> Missed
+
+0.075	0	0
+Lap time (ms) C1 is: 22719
+Accumulative square tracking error C2 is: 53262.64
+Tracking smoothness C3 is: 109558.72
+Platooning RMSE C5 is: 195.24
+
+0.075	0	0.75
+Lap time (ms) C1 is: 33663
+Accumulative square tracking error C2 is: 48317.35
+Tracking smoothness C3 is: 215873.99
+Platooning RMSE C5 is: 274.97
+
+0.055	0	0.75 -> Missed
+
+0.055	0	1 -> Missed
+
+0.055	0	10 ->Missed
+
+0.075	0	0.05
+Lap time (ms) C1 is: 28757
+Accumulative square tracking error C2 is: 42826.13
+Tracking smoothness C3 is: 190292.73
+Platooning RMSE C5 is: 258.41
+
+0.075	0.01	0.05	-> Missed
+
+0.075	0.01 	0.05
+Lap time (ms) C1 is: 28740
+Accumulative square tracking error C2 is: 52741.83
+Tracking smoothness C3 is: 176629.09
+Platooning RMSE C5 is: 244.07
+
+0.075	0.001625 	0.00040625
+Lap time (ms) C1 is: 24272
+Accumulative square tracking error C2 is: 41546.02
+Tracking smoothness C3 is: 122733.97
+Platooning RMSE C5 is: 246.67
+
+
+0.075	0.002	0.0005
+Lap time (ms) C1 is: 25903
+Accumulative square tracking error C2 is: 38657.12
+Tracking smoothness C3 is: 124110.50
+Platooning RMSE C5 is: 228.16
+
+0.07	0.002	0.0005
+Lap time (ms) C1 is: 25903
+Accumulative square tracking error C2 is: 38657.12
+Tracking smoothness C3 is: 124110.50
+Platooning RMSE C5 is: 228.16
+
+0.065	0.002	0.0005
+Lap time (ms) C1 is: 23211
+Accumulative square tracking error C2 is: 37458.01
+Tracking smoothness C3 is: 105566.90
+Platooning RMSE C5 is: 190.16
+
+0.05	0.002	0.0005 -> Missed
+
+0.06	0.002	0.0005
+Lap time (ms) C1 is: 23321
+Accumulative square tracking error C2 is: 35293.26
+Tracking smoothness C3 is: 95872.24
+Platooning RMSE C5 is: 179.68
+
+0.055	0.002	0.0005 -> Missed
+
+0.0575	0.002	0.0005
+Lap time (ms) C1 is: 21043
+Accumulative square tracking error C2 is: 29995.51
+Tracking smoothness C3 is: 90905.61
+Platooning RMSE C5 is: 212.09
+
+0.0575 	0.003 	0.00075 -> Missed
+
+0.0575	0.002	0.005
+Lap time (ms) C1 is: 22595
+Accumulative square tracking error C2 is: 33533.08
+Tracking smoothness C3 is: 91107.98
+Platooning RMSE C5 is: 228.80
+
+0.045 0.002	0.005
+
+0.045	0.002	0.01
+0.05	0.004	0.01
+0.0575	0.002	0.001
+
+0.045	0.003	0.0005 (Speed 50)
